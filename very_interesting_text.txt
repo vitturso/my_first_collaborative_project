@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ciao giulio!
+=======
+Ciao Vittoria!
+>>>>>>> origin/b_modification
 This is an extremely interesting text.
 This is the result to he work of AStudent 
 and BStudent.
